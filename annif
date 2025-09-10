@@ -1,0 +1,13 @@
+[
+  {
+    "id": "msg-004",
+    "titre": "Joyeux Anniversaire",
+    "contenu": "Découvrez notre interface améliorée !",
+    "imageUrl": "https://mauriceazrak.github.io/osteoplus-messages/images/annif.gif",
+    "dateCreation": "2025-09-10T10:00:00Z",
+    "expediteur": "Équipe OsteoPlus",
+    "priorite": "importante",
+    "type": "mise_a_jour",
+    "expirationDate": "2025-12-31T23:59:59Z"
+  }
+]
