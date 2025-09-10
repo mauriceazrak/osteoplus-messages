@@ -2,11 +2,11 @@
   {
     "id": "msg-002",
     "titre": "Mise à jour importante",
-    "contenu": "Une nouvelle version d'OsteoPlus est disponible avec de nouvelles fonctionnalités pour améliorer votre expérience. Cliquez sur azrakosteo@gmail.com pour écrire au DEV",
+    "contenu": "Une nouvelle version d'OsteoPlus est disponible avec de nouvelles fonctionnalités pour améliorer votre expérience.",
     "dateCreation": "2025-09-10T10:00:00Z",
     "expediteur": "Équipe OsteoPlus",
     "priorite": "importante",
-    "type": "mise_a_jour",
+    "type": "mise_a_jour 🧨",
     "version": "1.0.0",
     "expirationDate": "2025-12-31T23:59:59Z"
   }
